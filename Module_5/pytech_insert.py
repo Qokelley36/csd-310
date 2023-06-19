@@ -1,4 +1,4 @@
-rom pymongo import MongoClient
+from pymongo import MongoClient
 
 
 url = "mongodb+srv://admin:admin@cluster0.lsm8cpk.mongodb.net/?retryWrites=true&w=majority"
